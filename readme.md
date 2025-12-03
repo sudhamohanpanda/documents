@@ -14,3 +14,22 @@ Spring Al Makes Generative Al Spring-Native
 - Makes Al integration feel like configuring a @Bean, not batling a black-box.
 
 <img width="1252" height="611" alt="image" src="https://github.com/user-attachments/assets/ea7d88d0-6ab6-44c3-86f3-35b508501da4" />
+<img width="1252" height="611" alt="image" src="https://github.com/user-attachments/assets/6fa7c189-249b-4cf5-b12a-15063c680101" />
+<img width="1271" height="529" alt="image" src="https://github.com/user-attachments/assets/815d6ea1-8f25-4844-9d78-811b51e0c531" />
+<img width="1222" height="571" alt="image" src="https://github.com/user-attachments/assets/5314eee9-3b58-4374-b35c-dd4d07a10f4c" />
+<img width="1226" height="546" alt="image" src="https://github.com/user-attachments/assets/c3f0692f-5503-4296-8e35-5bf0c0ba6fac" />
+<img width="1262" height="618" alt="image" src="https://github.com/user-attachments/assets/897b65a4-f820-46c0-ba90-d385070ea5ea" />
+for code refer project ollama, opeanai, dockerai and multimodel
+
+--------------------------------------------------------------------------------------------------------------------------------
+<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/f532f041-a268-4131-8bab-e9d083c0a8c5" />
+<img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/30683dce-4d19-4669-8394-4849a9895f01" />
+
+
+
+
+
+
+
+
+
