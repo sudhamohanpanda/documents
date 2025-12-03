@@ -6,3 +6,9 @@ There are many way you can run/intereact with LLM model.
 
 - https://github.com/driekeerJ/ai-chat-poc Spring-AI using openai by "Wal van der, JP (Jeroen)"
 - https://github.com/eazybytes/spring-ai  Springai by udemy eazybytes nice one, I refer this to create my repo
+
+
+Spring Al Makes Generative Al Spring-Native
+- Spring Al wraps complex Al model APls (OpenAl, Olama, Bedrock) in familiar Spring interfaces.
+- Gives you ChatClient, ImageModel, SpeechModel, and even Memory, al with Spring idioms.
+- Makes Al integration feel like configuring a @Bean, not batling a black-box.
