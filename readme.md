@@ -10,5 +10,7 @@ There are many way you can run/intereact with LLM model.
 
 Spring Al Makes Generative Al Spring-Native
 - Spring Al wraps complex Al model APls (OpenAl, Olama, Bedrock) in familiar Spring interfaces.
-- Gives you ChatClient, ImageModel, SpeechModel, and even Memory, al with Spring idioms.
+- Gives you ChatClient, ImageModel, SpeechModel, and even Memory, all with Spring idioms.
 - Makes Al integration feel like configuring a @Bean, not batling a black-box.
+
+<img width="1252" height="611" alt="image" src="https://github.com/user-attachments/assets/ea7d88d0-6ab6-44c3-86f3-35b508501da4" />
