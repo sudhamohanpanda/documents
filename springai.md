@@ -7,6 +7,15 @@ default System (you can override)
 default User (you can override)
 Prompt Template
 Prompt Stuffing: When you have limited amount of data you can use this if more data use RAG. We use system message with a one/two page messageTemplate file.
+Why we should use Prompt Stuffing: Limited number of context token, billing base on input and output token,  each time it will 
+Adviser : User → ChatClient → [Advisors] → LLM → Response → [Advisors] → User
+  Default Adviser
+  Order - higher order number Adviser will excute first.
+Built-in Adviser   SafeGuardAdviser,SimpleLoggerAdvisor
+Custum Adviser
+  
+
+https://platform.openai.com/tokenizer is to see how many token
 
 There are many way you can run/intereact with LLM model. 
   1. using ollama at local (working on my mac)
@@ -30,6 +39,9 @@ Spring Al Makes Generative Al Spring-Native
 <img width="1226" height="546" alt="image" src="https://github.com/user-attachments/assets/c3f0692f-5503-4296-8e35-5bf0c0ba6fac" />
 <img width="1262" height="618" alt="image" src="https://github.com/user-attachments/assets/897b65a4-f820-46c0-ba90-d385070ea5ea" />
 for code refer project ollama, opeanai, dockerai and multimodel
+<img width="1281" height="627" alt="image" src="https://github.com/user-attachments/assets/508d3e59-b7f6-446c-830e-028b88b1eb0a" />
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 <img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/f532f041-a268-4131-8bab-e9d083c0a8c5" />
