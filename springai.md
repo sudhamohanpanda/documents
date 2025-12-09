@@ -1,3 +1,20 @@
+Contain
+1. What is Spring AI
+2. how many way way you can run/connect to LLM model
+   a. OpenAI
+   b. Ollama
+   c. Docker
+3. Message Roles
+   a. System (Instraction how LLM should behave)
+   b. User
+   c. Assistant (LLM Response)
+   d. Function/tool (Special instruction to run function or fetch data)
+4. default System (you can override)
+5. default User (you can override)
+6. Prompt Template
+7. Prompt Stuffing: When you have limited amount of data you can use this if more data use RAG. We use system message with a one/two page messageTemplate file. 
+8. 
+
 There are many way you can run/intereact with LLM model. 
   1. using ollama at local (working on my mac)
   2. using docker desktop at local (not working... mac chip not suppoted)
