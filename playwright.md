@@ -4,3 +4,20 @@ Why PlayWright?
 - Multi- Browser and OS compatibility
 - Automatic Waiting Mechanism
 - Inbuilt Logging and Screenshots
+
+PlayWright vs selenium vs cypress
+| Category | **Playwright** | **Selenium (WebDriver)** | **Cypress** |
+|---|---|---|---|
+| **Primary Use & Maturity** | Modern cross‑browser automation (launched 2020), fast adoption; includes @playwright/test runner. | Long‑standing, enterprise‑proven browser automation standard (since 2004). | Dev‑friendly E2E testing focused on web apps; strong interactive runner. |
+| **Language Support** | JS/TS, **plus** Java, Python, C#. | Broad: Java, Python, C#, Ruby, JavaScript, etc. (official bindings). | JavaScript/TypeScript only. |
+| **Browser Coverage** | Chromium, Firefox, **WebKit** (covers Chrome, Edge, Firefox, Safari engine). | All major browsers via native WebDriver drivers; standardized W3C protocol. | Chrome‑family, Firefox, **WebKit (Safari engine)** support (now available, historically experimental). |
+| **Multi‑tab / Multi‑window** | Fully supported via multiple contexts/pages. | Supported by native browser drivers. | **Not** natively supported; typical workarounds (remove `target=_blank`, stub `window.open`). |
+| **Speed & Stability** | Very fast; auto‑waiting and actionability checks reduce flakiness. | Reliable but can be slower due to WebDriver client–driver communication overhead; improved with Selenium 4 features. | Fast for front‑end flows; interactive runner gives quick feedback. |
+| **Waiting / Synchronization** | Built‑in **auto‑wait** for visibility/stability/enabled state; retrying assertions. | Explicit waits & expected conditions; now adds BiDi/CDP hooks for richer sync/debug. | Automatic waits for commands/assertions; still single‑tab model. |
+| **Parallelism & Scale** | Parallel by default; workers configurable; projects for multi‑browser; trace viewer. | Selenium Grid enables large distributed parallel runs; strong cloud/grid ecosystem. | Parallel runs supported via CI/cloud runners; less grid‑oriented than Selenium. |
+| **Mobile / Safari Coverage** | WebKit gives **Safari** engine; device emulation presets (iPhone/Android). | Full desktop browsers + **Appium** ecosystem for native/hybrid mobile. | WebKit brings Safari‑engine coverage; more focused on desktop web flows. |
+| **Advanced Features** | Network interception, multiple contexts, codegen, tracing/UI mode. | Selenium 4 adds **CDP** access + emerging **WebDriver BiDi** (event‑driven, cross‑browser). | Time‑travel UI, stubs/mocks; strong DX inside test runner. |
+| **Ecosystem & Community** | Rapidly growing; official docs + cloud support (BrowserStack, etc.). | Very large, mature, with multi‑language support and vendor tools/clouds. | Strong community around JS tooling; lots of guides and CI examples. |
+| **Typical Strengths** | Cross‑browser (incl. WebKit), fast, less flaky via auto‑wait; great for modern SPAs. | Best for **broad compatibility**, legacy apps, enterprise grids & multi‑language teams. | Best **developer experience** and rapid feedback for JS teams; simple setup. |
+| **Typical Limitations** | Primarily web; mobile apps require other tools (e.g., Appium). | Higher setup complexity; potential flakiness if waits/timeouts not tuned. | Single‑tab architecture limits multi‑window flows; WebKit support may require extra setup. |
+| **License** | Apache 2.0. | Apache 2.0. | MIT (runner) + OSS ecosystem (varies by plugins). *(General)* |
