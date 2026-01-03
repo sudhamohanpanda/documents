@@ -21,3 +21,8 @@ PlayWright vs selenium vs cypress
 | **Typical Strengths** | Cross‑browser (incl. WebKit), fast, less flaky via auto‑wait; great for modern SPAs. | Best for **broad compatibility**, legacy apps, enterprise grids & multi‑language teams. | Best **developer experience** and rapid feedback for JS teams; simple setup. |
 | **Typical Limitations** | Primarily web; mobile apps require other tools (e.g., Appium). | Higher setup complexity; potential flakiness if waits/timeouts not tuned. | Single‑tab architecture limits multi‑window flows; WebKit support may require extra setup. |
 | **License** | Apache 2.0. | Apache 2.0. | MIT (runner) + OSS ecosystem (varies by plugins). *(General)* |
+
+- Pi test is one of the testing framework which you need to know before you get started with playwright. Basically, playwright tests are built on Pi test framework.
+  # Setup  PlayWright
+  - Install Python
+  - 
