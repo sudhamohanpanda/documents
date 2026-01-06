@@ -5,8 +5,8 @@ by Ed Donner
    <img width="572" height="604" alt="image" src="https://github.com/user-attachments/assets/526aa4f5-5f00-419b-9212-32de7e4935c5" />
 3. Nothing
 4. Setup Environment
-   a. git clone https://github.com/ed-donner/agents.git ( https://github.com/ed-donner/agents )
-   b. install cursor IDE from cursor.com
+   - a. git clone https://github.com/ed-donner/agents.git ( https://github.com/ed-donner/agents )
+   - b. install cursor IDE from cursor.com
    c. open above agent folder into cursor IDE
    d. install uv from https://docs.astral.sh/uv/getting-started/installation/
       i. uv is an extremely fast Python package and project manager, written in Rust
