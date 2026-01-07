@@ -4,7 +4,7 @@ by Ed Donner
 2. Details about the courses
    <img width="572" height="604" alt="image" src="https://github.com/user-attachments/assets/526aa4f5-5f00-419b-9212-32de7e4935c5" />
 3. Nothing
-4. Setup Environment
+4. Setup Environment for Windows
    -  git clone https://github.com/ed-donner/agents.git ( https://github.com/ed-donner/agents )
    -  install cursor IDE from cursor.com
    -  open above agent folder into cursor IDE
@@ -14,3 +14,5 @@ by Ed Donner
       -  It will create a folder .venv and install python and all dependent package
    - Create key in open ai at https://platform.openai.com/docs/quickstart
    - Setup done
+5. Setup environment for Mac
+6. 
