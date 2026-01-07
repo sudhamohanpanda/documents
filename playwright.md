@@ -23,6 +23,10 @@ PlayWright vs selenium vs cypress
 | **License** | Apache 2.0. | Apache 2.0. | MIT (runner) + OSS ecosystem (varies by plugins). *(General)* |
 
 - Pi test is one of the testing framework which you need to know before you get started with playwright. Basically, playwright tests are built on Pi test framework.
+- pytest serves as a testing framework that allow us to execute Playwrigte test using pytest-playwright plugin
   # Setup  PlayWright
   - Install Python
+  - Install pytest by executing pip install -U pytest
+  - Install playwright-pytest plugin by executing pip install -U pytest-playwright
+  - Install required browser by playwright install
   - 
