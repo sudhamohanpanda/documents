@@ -29,4 +29,8 @@ PlayWright vs selenium vs cypress
   - Install pytest by executing pip install -U pytest
   - Install playwright-pytest plugin by executing pip install -U pytest-playwright
   - Install required browser by playwright install
-  - 
+  - in intellij IDE make sure blue play button is showing before every test_anyName. if not install python plugin and restart.
+
+  # scope of pytest fixture
+  - function
+  - mo
