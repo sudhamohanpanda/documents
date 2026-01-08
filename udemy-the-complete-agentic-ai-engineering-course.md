@@ -18,6 +18,19 @@ by Ed Donner
 6. Using OpeAI in python interect with Open AI LLM
 7. code to interact with multiple LLM like ANTHROPIC, GOOGLE_API, DEEPSEEK_API, GROQ_API
 8. Thearitical explain of what is Agentic AI
-9. Workflow design pattern
+9. Workflow design pattern (here blue box is code)
     - prompt chanining <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/1a8a5bb9-e745-42b6-8bf0-512833d8c2ec" />
+    - Routing <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/6c98dcb6-6403-480c-a806-2ef3b1f71b55" />
+    - Parallelization <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/d1ce2c3b-83ca-45bb-813f-22bbdd0ae42e" />
+    - <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/75196114-d258-442a-9ca8-1b69986839ab" />
+    - Evaluation and optimizer <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/56ed47c0-a568-4223-9806-2b6e8151a618" />
+10. Nothing important
+11. <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/5ddceea8-7796-4d38-903a-25c4b15c2305" />
+    Comparison between LLM model in different point of view: https://www.vellum.ai/llm-leaderboard?utm_source=direct&utm_medium=none
+12. 
+
+
+
+
+
 
