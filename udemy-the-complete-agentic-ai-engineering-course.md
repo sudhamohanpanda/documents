@@ -15,8 +15,8 @@ by Ed Donner
    - Create key in open ai at https://platform.openai.com/docs/quickstart
    - Setup done
 5. Setup environment for Mac
-6. Using OpeAI in python interect with Open AI LLM
-7. code to interact with multiple LLM like ANTHROPIC, GOOGLE_API, DEEPSEEK_API, GROQ_API
+6. Using OpenAI in python interect with Open AI LLM
+7. Multi steps OpenAI, result will be the next prompt
 8. Thearitical explain of what is Agentic AI
 9. Workflow design pattern (here blue box is code)
     - prompt chanining <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/1a8a5bb9-e745-42b6-8bf0-512833d8c2ec" />
@@ -27,7 +27,14 @@ by Ed Donner
 10. Nothing important
 11. <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/5ddceea8-7796-4d38-903a-25c4b15c2305" />
     Comparison between LLM model in different point of view: https://www.vellum.ai/llm-leaderboard?utm_source=direct&utm_medium=none
-12. 
+12. lab2 ... code to interact with multiple LLM like ANTHROPIC, GOOGLE_API, DEEPSEEK_API, GROQ_API
+13. lab2 continue
+14. ...
+15. ...
+16. ...
+17. ...
+18. Gradio and OpenAI ...
+19. Using Gemini to evaluat gpt-4
 
 
 
