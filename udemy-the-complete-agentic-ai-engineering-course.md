@@ -15,4 +15,9 @@ by Ed Donner
    - Create key in open ai at https://platform.openai.com/docs/quickstart
    - Setup done
 5. Setup environment for Mac
-6. 
+6. Using OpeAI in python interect with Open AI LLM
+7. code to interact with multiple LLM like ANTHROPIC, GOOGLE_API, DEEPSEEK_API, GROQ_API
+8. Thearitical explain of what is Agentic AI
+9. Workflow design pattern
+    - prompt chanining <img width="718" height="489" alt="image" src="https://github.com/user-attachments/assets/1a8a5bb9-e745-42b6-8bf0-512833d8c2ec" />
+
