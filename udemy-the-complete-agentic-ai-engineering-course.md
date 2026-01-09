@@ -36,10 +36,10 @@ by Ed Donner
 18. Gradio and OpenAI ...
 
 
-49. Crew AI Enterprise: A multi agents platform for deploying, running and monitoring Agentic AI.
-    Crew AI UI Studio: A no code or low code product for creating multi agent solutions.
-    Crew AI Open source Framework: Orchestrate hight perfomance AI agents with easy and scale.
-    Crew AI Framework come with two flavor :
+49. - Crew AI Enterprise: A multi agents platform for deploying, running and monitoring Agentic AI.
+    - Crew AI UI Studio: A no code or low code product for creating multi agent solutions.
+    - Crew AI Open source Framework: Orchestrate hight perfomance AI agents with easy and scale.
+    - Crew AI Framework come with two flavor :
     <img width="422" height="461" alt="image" src="https://github.com/user-attachments/assets/66e63c86-a1f5-4c30-b29a-c348fb63261b" />
 
 19. Using Gemini to evaluat gpt-4
