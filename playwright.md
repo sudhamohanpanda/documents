@@ -32,5 +32,15 @@ PlayWright vs selenium vs cypress
   - in intellij IDE make sure blue play button is showing before every test_anyName. if not install python plugin and restart.
 
   # scope of pytest fixture
-  - function
-  - mo
+  Fixture is reusable function. Not a test. it can define in each python file with annotation @pytest.fixture or in file conftest.py. It will first check with in file then conftest.py.
+  By default scope is function
+  - if scope="function" it will run before each test function 
+  - if scope="module" it will run once per python file
+  - if scope="session" it will execute once across your test.
+    To run every test file use command "pytest"
+    pytest command execute all the files which file name start with test
+    pytest -s ... will show print statement also.
+    to run particualr file pytest <testFileName>
+    to run a particular test pytest <testFileName>::<testName>
+    @pytest.mark.skip use this to skip a test
+    to run with particular tag annoted with pytest.mark.<tagName> and execute pytest -m <tagName>
