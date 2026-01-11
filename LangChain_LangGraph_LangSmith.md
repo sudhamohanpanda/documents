@@ -47,3 +47,16 @@ Instead:
 
 LangChain = components (LLMs, tools, prompts)
 LangGraph = orchestration layer
+
+What is LangSmith?
+LangSmith is monitoring tool.
+
+LangGraph
+Terminology
+Agent workflow are represented as **Graph**
+**State** represet the current state of application. State is immutable.
+**Node** are python functions that represent agent logic. They receive current **State** as input, do something and return an updated **State**.
+**Edges** are python function that determine which **Node** to execute next based on the **State**. They can be conditional of fixed.
+**Node** do the work, **Edges** choose what to do next.
+
+
