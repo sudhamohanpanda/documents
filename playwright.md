@@ -1,3 +1,7 @@
+Reference: 
+- https://www.youtube.com/watch?v=fsfaW7MokzQ&t=7s  playwright 3 agents Planner, generator, healer
+- https://cognizant.udemy.com/course/playwright-python-automation-testing-pytest/learn/lecture/46523023#overview
+
 Why PlayWright?
 - multi_language support: You can write testing code in different language like JavaScript, Python Java
 - Web & API testing:
