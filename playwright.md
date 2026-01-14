@@ -49,3 +49,18 @@ PlayWright vs selenium vs cypress
     to run a particular test pytest <testFileName>::<testName>
     @pytest.mark.skip use this to skip a test
     to run with particular tag annoted with pytest.mark.<tagName> and execute pytest -m <tagName>
+
+# Playwright Test Agent
+14 Jan 26: now only possible by using JavaScript or TypeScript
+Setup Environment
+install latest npm   ~~npm install -g npm@latest~~  I used "brew update" then "brew upgrade node"
+still it did not update for me then I fix by:
+echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+hash -r
+brew link --overwrite node
+install latest playwright npm init playwright@latest
+<img width="803" height="755" alt="image" src="https://github.com/user-attachments/assets/7dd6f636-56d2-4311-a4ca-80f35421e8e1" />
+<img width="922" height="760" alt="image" src="https://github.com/user-attachments/assets/82d4b25a-835d-40eb-a5ab-f864b1f376c8" />
+
+
