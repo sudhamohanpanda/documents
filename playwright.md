@@ -69,3 +69,5 @@ brew link --overwrite node
 - I am not able to do with my mac because MCP server is disable by Rabobank in github copilot
 - <img width="1151" height="542" alt="image" src="https://github.com/user-attachments/assets/adbbd13e-24d6-4564-a456-cbe40b1aab1c" />
 
+- Then I enable my personal github copilot and install above Playwright extension in VSCode.
+- I restart and might be did some other step and then it show MCP and I selected <img width="1210" height="599" alt="image" src="https://github.com/user-attachments/assets/bac2c58d-2dc8-4010-913b-2d3e5962a9f1" />
