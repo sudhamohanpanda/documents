@@ -49,4 +49,7 @@ PlayWright vs selenium vs cypress
   - to run a particular test pytest testFileName::testName
   - @pytest.mark.skip use this to skip a test
   - to run with particular tag annoted with pytest.mark.tagName and execute pytest -m tagName
+ 
+  - **Note that your test file name must start with "test" and your test method also must start with "test"**
+  **Record and playback the tests in playwright with codegen tool**
 
