@@ -45,8 +45,8 @@ PlayWright vs selenium vs cypress
   - To run every test file use command "pytest"
     pytest command execute all the files which file name start with test
   - pytest -s ... will show print statement also.
-  - to run particualr file pytest <testFileName>
-  - to run a particular test pytest <testFileName>::<testName>
+  - to run particualr file pytest testFileName
+  - to run a particular test pytest testFileName::testName
   - @pytest.mark.skip use this to skip a test
-  - to run with particular tag annoted with pytest.mark.<tagName> and execute pytest -m <tagName>
+  - to run with particular tag annoted with pytest.mark.tagName and execute pytest -m tagName
 
