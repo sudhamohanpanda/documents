@@ -1,6 +1,6 @@
+- for this I have created a project "TestAuto"
 Reference: 
-- https://www.youtube.com/watch?v=fsfaW7MokzQ&t=7s  playwright 3 agents Planner, generator, healer
-- https://www.youtube.com/watch?v=FGwtDhjnBMc Why Do You Need (or NOT) the Playwright MCP Server.
+
 - https://cognizant.udemy.com/course/playwright-python-automation-testing-pytest/learn/lecture/46523023#overview
 
 Why PlayWright?
