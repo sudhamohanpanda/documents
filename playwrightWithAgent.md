@@ -1,3 +1,7 @@
+For this I try with project TestAutoByAgent
+- https://www.youtube.com/watch?v=fsfaW7MokzQ&t=7s  playwright 3 agents Planner, generator, healer
+- https://www.youtube.com/watch?v=FGwtDhjnBMc Why Do You Need (or NOT) the Playwright MCP Server.
+  
 # Playwright Test Agent
 - 14 Jan 26: now only possible by using JavaScript or TypeScript
 - Intellij IDE also not supported so I use VS Code configure github copilot and then I start with an empty folder. 
