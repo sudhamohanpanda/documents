@@ -1,4 +1,5 @@
 - uv init: Create a new Python project.
+- uv venv: Create a new environment
 - uv add: Add a dependency to the project.
 - uv remove: Remove a dependency from the project.
 - uv sync: Sync the project's dependencies with the environment.
