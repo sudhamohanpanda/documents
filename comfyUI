@@ -1,0 +1,43 @@
+# How to install ComfyUI on Apple Silicon M4?
+xcode-select --install mostly it will available before
+if not homebrew
+  bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install python@3.10  higher version is not compatible
+python3.10 --version
+
+git clone https://github.com/comfyanonymous/ComfyUI.git
+cd ComfyUI
+
+python3.10 -m venv venv
+source venv/bin/activate
+pip install torch torchvision torchaudio
+pip install -r requirements.txt
+python main.py
+Then open in browser: http://127.0.0.1:8188  it work for me
+
+as company laptop having restriction I download in different mac and trasnfer to bank company mac
+I dowload it from https://civitai.com/
+DreamShaper_8_pruned.safetensors
+dreamshaper_8.safetensors # I think not needed
+add_detail.safetensors
+vaeFtMse840000EmaPruned_vaeFtMse840k.safetensors
+
+  place it at ComfyUI/models/checkpoints/
+
+
+  I did not do following as it is retricted 
+cd custom_nodes
+git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+
+
+For video:
+inside ComfyUI/custom_nodes:
+git clone https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
+
+search "AnimateDiff motion model" in https://civitai.com/
+place it at ComfyUI/models/motion_models/
+
+  
+
+
+  
